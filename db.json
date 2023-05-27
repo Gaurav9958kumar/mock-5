@@ -1,0 +1,73 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "email": "john@example.com",
+          "password": "password",
+          "profession": "Web Developer",
+          "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "hourly_rate": 25,
+          "profile_picture": "profile1.jpg",
+          "isBooked": false
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "jane@example.com",
+          "password": "password",
+          "profession": "Graphic Designer",
+          "skills": [
+            "Photoshop",
+            "Illustrator"
+          ],
+          "hourly_rate": 30,
+          "profile_picture": "profile2.jpg",
+          "isBooked": true
+        },
+        {
+          "name": "Waseem",
+          "image": "https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918_960_720.jpg",
+          "email": "iwaseemkhan1995@gmail.com",
+          "password": "khan",
+          "profession": "student",
+          "skills": "html",
+          "hourlyrate": "12",
+          "id": 3
+        },
+        {
+          "name": "rahul",
+          "image": "https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918_960_720.jpg",
+          "email": "han1995@gmail.com",
+          "password": "khan",
+          "profession": "Web Developer",
+          "skills": "css",
+          "hourlyrate": "123",
+          "id": 4
+        },
+        {
+          "name": "chunmun",
+          "image": "https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918_960_720.jpg",
+          "email": "r@gmail.com",
+          "password": "wr",
+          "profession": "Graphic Designer",
+          "skills": "js",
+          "hourlyrate": "1234",
+          "id": 5
+        },
+        {
+          "name": "khan",
+          "image": "https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918_960_720.jpg",
+          "email": "iwaseemkhan1995@gmail.com",
+          "password": "khan",
+          "profession": "Web Developer",
+          "skills": "react",
+          "hourlyrate": "111",
+          "id": 6
+        }
+      ]
+}
